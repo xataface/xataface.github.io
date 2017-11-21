@@ -82,4 +82,4 @@ xataface wizard
 
 This will open a window as shown below:
 
-![Xataface Wizard Main Menu](images/wizard-main-menu.png)
+![Xataface Wizard Main Menu](/images/docs/wizard-main-menu.png)
